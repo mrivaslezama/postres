@@ -24,7 +24,7 @@ def grid():
                   padding="12px",
                   color="#FFB6C1",
               ),
-              rx.image(src="/smoothie1.jpg", width="40em", height="auto"),
+              rx.image(src="/smoothie1.jpg", width="10em", height="auto"),
           )
       ),
       background_color="#E0FFFF",  # Light Cyan
